@@ -4,7 +4,7 @@ Dive into the vibrant world of colors with this interactive RGB Color Slider! �
 
 ## 🚀 Live Demo
 
-Check out the live version here: [https://iam269.github.io/RGB-Color-Slider/](https://iam269.github.io/RGB-Color-Slider/)
+Check out the live version here: [https://itsiamdev.github.io/RGB-Color-Slider/](https://itsiamdev.github.io/RGB-Color-Slider/)
 
 ## ✨ Features
 
